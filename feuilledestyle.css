@@ -1,1 +1,20 @@
+/* Styling for the Ecole Pascal Paris 16ème website */
 
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Add more styles as needed for your project */
